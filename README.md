@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/hand-guided-robot-teaching-explainer/
 
+Repository: https://github.com/mizcausevic-dev/hand-guided-robot-teaching-explainer
+
 ## What this is
 
 An interactive anatomy plate for Hand-Guided Robot Teaching. Play, scrub, or jump the five stages. The same frame always draws the same picture.
